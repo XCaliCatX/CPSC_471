@@ -1,0 +1,7 @@
+Assignment Information - 
+Given Initial Server Code - server.py
+Part 1: UDP Pinger with No Delay and No Loss - KE1.py
+Part 2: UDP Pinger with Delays - KE2.py
+Part 3: UDP Pinger with Delays and Packet Losses - KE3.py
+Part 4: HeartBeat Monitor Using Python - KE4c.py, KE4s.py
+
